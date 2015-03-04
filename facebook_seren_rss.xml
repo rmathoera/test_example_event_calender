@@ -1,0 +1,49 @@
+ <?xml version="1.0" encoding="utf-8" ?> 
+ <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <channel>
+  <title>Facebook-prikbord van Serendipity Events</title> 
+  <link>https://www.facebook.com/</link> 
+  <description>Facebook-prikbord van Serendipity Events</description> 
+  <language>en-us</language> 
+  <category domain="Facebook">PageSyndicationFeed</category> 
+  <generator>Facebook Syndication</generator> 
+  <docs>http://www.rssboard.org/rss-specification</docs> 
+  <lastBuildDate>Wed, 17 Sep 2014 12:48:28 +0000</lastBuildDate> 
+  <webMaster>webmaster@facebook.com</webMaster> 
+ <item>
+  <guid isPermaLink="false">www.facebook.com/notification/76d0d6abed068d3c413f7c92bc5999db</guid> 
+ <title> <![CDATA[  Specially for you. ..   ]]>   </title>
+ <link>http://www.facebook.com/gotoSerenDipityEvents/photos/a.1504869319759627.1073741826.1427081010871792/1504868926426333/?type=1</link> 
+ <description>
+ <![CDATA[ Specially for you. ..
+ <br/>
+ <br/>
+ <a href="/gotoSerenDipityEvents/photos/a.1504869319759627.1073741826.1427081010871792/1504868926426333/?type=1&amp;relevant_count=1" id="" title="" target="" onclick="" style="">
+ <img class="img" src="https://scontent-a.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/e2/s130x130/10563103_1504868926426333_7933536228160096912_n.jpg?oh=fe78090a6904730ad542aacca70adddd&amp;oe=548DF82C" alt="" />
+ </a>
+ <br/>
+   ]]> 
+  </description>
+  <pubDate>Wed, 17 Sep 2014 13:48:28 +0100</pubDate> 
+  <author>Serendipity Events</author> 
+  <dc:creator>Serendipity Events</dc:creator> 
+  </item>
+ <item>
+  <guid isPermaLink="false">www.facebook.com/notification/3fa062cc0fa365c3edb7e0c58bad85cd</guid> 
+ <title>
+ <![CDATA[  Eerste status bericht van Serendipity Events.
+   ]]> 
+  </title>
+  <link>http://www.facebook.com/gotoSerenDipityEvents/posts/1427084510871442</link> 
+ <description>
+ <![CDATA[ Eerste status bericht van <a href="/profile.php?id=1427081010871792" title="Als je iemand wilt taggen, typ je &#064; gevolgd door de naam van degene die je wilt taggen">Serendipity Events</a>.
+   ]]> 
+
+  </description>
+  <pubDate>Tue, 11 Mar 2014 13:46:14 +0100</pubDate> 
+  <author>Serendipity Events</author> 
+  <dc:creator>Serendipity Events</dc:creator> 
+  </item>
+  </channel>
+  <access:restriction  relationship="deny" xmlns:access="http://www.bloglines.com/about/specs/fac-1.0" /> 
+  </rss>

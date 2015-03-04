@@ -1,0 +1,22 @@
+https://www.facebook.com/feeds/notifications.php?id=100000061040005&viewer=100000061040005&key=AWiFxSIqNLlVpBZH&format=rss20
+
+RSS feed van facebook. 
+
+RSS Feed facebook Page
+https://www.facebook.com/feeds/page.php?format=rss20&id=
+SerenDipity Page id: 1427081010871792 
+https://www.facebook.com/feeds/page.php?format=rss20&id=1427081010871792
+https://www.facebook.com/feeds/page.php?format=rss&id=1427081010871792
+
+Roopesh Mathoera 
+https://www.facebook.com/feeds/page.php?format=rss20&id=100000061040005
+
+
+Test-only
+
+Tested OK
+RSS Feed ResearchBuzz News
+https://www.facebook.com/feeds/page.php?format=rss20&id=209585761841
+
+NoSpang RSS Feed
+http://www.nospang.com/index.php?option=com_eventlist&view=eventlist&format=feed&type=rss&Itemid=56
